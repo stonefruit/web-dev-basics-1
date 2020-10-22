@@ -24,6 +24,7 @@ Total 8 sessions (24 hours)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [React](https://reactjs.org/)
 - [Random Unsplash Image](https://source.unsplash.com/random/800x800)
+- [Pokemon API](https://pokeapi.co/)
 
 ## Lessons
 
@@ -70,8 +71,35 @@ Lesson 4
 
 Lesson 5
 
+- [20m] Review Assignment 4
+- [10m] Re-imagine application v2: Modals show pokemon attributes like abilities
+- [60m] Creating a modal using state to toggle
+- [30m] Plan UI for application
+- [60m] Work on Assignment 5
+- Assignment 5 : Modify app to v2
+
 Lesson 6
+
+- [20m] Review Assignment 5
+- [30m] Explain how the web works
+- [30m] Intro to APIs
+- [60m] Practice working with JSON data
+- [40m] Work on Assignment 6
+- Assignment 6 : Modify app and use hardcoded pokemon json with `setTimeout` to simulate async API call
 
 Lesson 7
 
+- [20m] Review Assignment 6
+- [20m] Add Axios to project and explain purpose
+- [40m] How to modify JSON use to actual API calls
+- [100m] Work on Assignment 7
+- Assignment 7 : Modify app to use API calls
+
 Lesson 8
+
+- [20m] Review Assignment 7
+- [40m] Last min changes
+- [30m] Build and deploy on S3
+- [30m] Review possible improvements that can be made
+- [30m] Retrospective
+- [30m] QnA
