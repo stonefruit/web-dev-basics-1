@@ -4,7 +4,7 @@
 
 This tutorial is meant for basic learners, with the aim of providing easily accessible tools and content so that further experimentation and exploration can proceed.
 
-Basic html/css/js is used in this module instead of industry standard libraries (such as React) as this course is meant to be short and require as little dependencies as possible.
+Basic html/css/js is used in this module initially, and React is used subsequently as it will improve productivity and feedback to the student (at the cost of a lot of magic though).
 
 ## Duration
 
