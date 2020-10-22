@@ -27,13 +27,15 @@ Total 8 sessions (24 hours)
 
 Lesson 1
 
-- Set up VS Code
-- Install Chrome
-- Introduction to Chrome Inspector
-- Finding Resources
-- What is a language?
-- Basic html, focussing on `<div>` and `<span>`
-- Basic css, focussing on inline styling
+- [10m] Objective of module
+- [15m] Set up VS Code
+- [15m] Install Chrome
+- [20m] Introduction to Chrome Inspector
+- [10m] Finding Resources
+- [10m] What is a language?
+- [30m] Basic html, focussing on `<div>` and `<span>`
+- [30m] Basic css, focussing on inline styling
+- [40m] Work on app
 
 Lesson 2
 
