@@ -25,6 +25,7 @@ Total 8 sessions (24 hours)
 - [React](https://reactjs.org/)
 - [Random Unsplash Image](https://source.unsplash.com/random/800x800)
 - [Pokemon API](https://pokeapi.co/)
+- [Font Awesome](https://fontawesome.com/)
 
 ## Lessons
 
